@@ -160,8 +160,8 @@ predicted_prices = scaler.inverse_transform(predicted)
 actual_prices = scaler.inverse_transform(actual)
 
 # Plot the predictions vs actual prices
-print('Name: Syed Mohamed Raihan M')
-print('Register Number: 212224240167')
+print('Name: Shreedhar Kumar K J')
+print('Register Number: 212224230265')
 plt.figure(figsize=(10, 6))
 plt.plot(actual_prices, label='Actual Price')
 plt.plot(predicted_prices, label='Predicted Price')
@@ -179,18 +179,15 @@ print(f'Actual Price: {actual_prices[-1]}')
 
 ## Training Loss Over Epochs Plot
 
-<img width="644" height="851" alt="image" src="https://github.com/user-attachments/assets/5b431f5f-8f3f-4482-bb91-2fd1d099499b" />
-
+<img width="789" height="911" alt="image" src="https://github.com/user-attachments/assets/2b87d845-ba7b-4342-b17b-1145d01052c7" />
 
 ## True Stock Price, Predicted Stock Price vs time
 
-<img width="897" height="631" alt="image" src="https://github.com/user-attachments/assets/3863d24c-c9fb-4e45-b14c-de4198116c78" />
-
+<img width="997" height="655" alt="image" src="https://github.com/user-attachments/assets/3e5d861c-c05c-4876-8139-4c7dc847f592" />
 
 ### Predictions
 
-<img width="571" height="105" alt="image" src="https://github.com/user-attachments/assets/aea1a2ce-26e0-40d4-8344-f7fbc1f5c367" />
-
+<img width="294" height="52" alt="image" src="https://github.com/user-attachments/assets/a10e7c51-1217-41fb-9ef3-ac4ec0e54108" />
 
 ## RESULT
 
